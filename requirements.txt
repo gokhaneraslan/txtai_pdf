@@ -1,0 +1,3 @@
+txtai
+langchain-community
+pypdf
